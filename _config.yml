@@ -1,6 +1,19 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Subhadip Ghosh </p>
+logo: /assets/img/Subhadip_Ghosh_9775.jpg
+
+description:
+  <p align="center">
+  <a href="pdf/Resume_Subhadip.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/subhadipghosh-de/">LinkedIn</a> |
+  <a href="https://github.com/sghoshca">GitHub</a>
+  
+  <br>   
+  Dynamic Technology leader having 16yrs of experience in Data Management Areas, navigating through complex data
+  and system architectures, processing, munging Terabytes of data. Strong business acumen in Retail, Financial Services,
+  Telecom. Hands on in Informatica, AWS services, Python, SQL, Snowflake, DWBI Tech & Tools.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
